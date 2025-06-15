@@ -612,6 +612,18 @@
     [
       "4e141f65-e13f-4260-8f98-2a1afe821eb1",
       "Root"
+    ],
+    [
+      "6ef822d8-e48f-460d-a8e7-39b206a95f3f",
+      "USB_C_2.0"
+    ],
+    [
+      "f156433d-81f5-451d-a526-474de8b48c2f",
+      "ESP32-C3"
+    ],
+    [
+      "b59f1af9-ff2a-4dfe-8d43-c9ff34bb4a58",
+      "LDO 5V -> 3V3"
     ]
   ],
   "text_variables": {}
